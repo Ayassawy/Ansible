@@ -1,0 +1,6 @@
+---
+- name: Running nagios roles/oleg.nagios-server
+  hosts: 10.231.187.104
+  become: yes
+  roles:
+    - roles/oleg.nagios-server

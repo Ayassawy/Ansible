@@ -1,0 +1,9 @@
+---
+# vars file for roles/oleg.nagios_add_servers
+target_server_list:
+  - server_name: "ServerA"
+    server_ip: "10.231.187.104"
+  - server_name: "ServerB"
+    server_ip: "10.231.187.93"
+  - server_name: "ServerC"
+    server_ip: "10.231.187.103"
