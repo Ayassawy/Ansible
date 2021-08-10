@@ -1,0 +1,6 @@
+create_users:
+  - ziyo
+  - kyle
+  - max
+user_password: "$6$IoDX/ROxebKOlaII$fT/zqsq2wVZzdLstl1L/exsjhL2pBvqHCHScQ3/zRlNFXU1xfllAQJ28N6qw1fvB/Twcc/J9PyKs/m46bMT4B1"
+user_shell: "/usr/bin/sh"
